@@ -1,6 +1,6 @@
-@media (max-width: 600px) {
+shahi trade service@media (max-width: 600px) {
   nav a {
-    display: block;
+    display: shah;
     margin: 10px 0;
   }
 
